@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Chetana 👋🏼👩🏻‍💻
+
+
+I’m a firm believer in learning new things to gain a broader perspective and finding efficient solutions to challenges. I have 5 years of experience as a software engineer.
+
+I’m currently working as a backend developer for California based startup - True Lark - a next-generation AI-powered customer help-desk for local businesses via messaging and voice.
+
+I’m always enthusiastic about solving new challenges through technological innovations.
 
 <!--
 **javali93/javali93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

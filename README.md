@@ -7,6 +7,10 @@ I’m currently working as a backend developer for California based startup - Tr
 
 I’m always enthusiastic about solving new challenges through technological innovations.
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dracula)
+
 <!--
 **javali93/javali93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

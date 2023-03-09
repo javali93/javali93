@@ -9,7 +9,7 @@ I’m always enthusiastic about solving new challenges through technological inn
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=javali93&count_private=true&show_icons=true&theme=swift&hide=stars,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=javali93&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide=stars,contribs)
 
 <!--
 **javali93/javali93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

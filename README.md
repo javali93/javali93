@@ -1,7 +1,7 @@
 ### Hi, I'm Chetana 👋🏼👩🏻‍💻
 
 
-I’m a firm believer in learning new things to gain a broader perspective and finding efficient solutions to challenges. I have 5 years of experience as a software engineer.
+I’m a firm believer in learning new things to gain a broader perspective and finding efficient solutions to challenges.
 
 I’m currently working as a backend developer for California based startup - TrueLark - a next-generation AI-powered customer help-desk for local businesses via messaging and voice.
 
